@@ -13,7 +13,7 @@ However, the management noticed a decline in their active users and revenue grow
 
 ## Data Model
 
-<img src ='https://github.com/Naveen-S6/AtliQo_Telecom_Analysis_PowerBI/blob/main/resources/data_model.png'>
+<img src ='https://github.com/Dhanish027/Telecom_Analysis/blob/master/resources/data_model.png'>
 
 ## Dashboard Design
 ![main_page](https://github.com/Dhanish027/Telecom_Analysis/blob/master/resources/1.png)
